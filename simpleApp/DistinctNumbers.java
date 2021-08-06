@@ -1,6 +1,6 @@
 // Plum Tree Garden
 // distinct.java
-// simple app that when provided with multiple integers, displays only distinct numbers on output
+// when provided with multiple integers, displays only distinct numbers on output
 
 
 package jac_assignment_one;
