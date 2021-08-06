@@ -1,1 +1,4 @@
-**leapYear** : displays all leap years between 2 given dates
+**LeapYear** : displays all leap years between 2 given dates
+
+
+**DistinctNumbers** : when provided with multiple integers, displays only distinct numbers on output
