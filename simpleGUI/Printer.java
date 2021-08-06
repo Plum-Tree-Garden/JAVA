@@ -1,5 +1,6 @@
 // Plum Tree Garden
 // Printer.java
+//  simple gui that prepares document to print
 
 import java.awt.*;
 import javax.swing.*;
