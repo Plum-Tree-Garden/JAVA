@@ -1,5 +1,5 @@
 // Plum Tree Garden
-// leapYear.java
+// LeapYear.java
 // displays leap years between 2 given dates
 
 
@@ -8,7 +8,7 @@ package jac_assignment_one;
 import java.util.*;
 
 
-public class Question_One 
+public class LeapYear 
 {
 	public static void main(String[] args) 
 	{
