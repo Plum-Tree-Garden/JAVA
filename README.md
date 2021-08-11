@@ -7,6 +7,11 @@ typingTutor
 **typingTutor** App that helps users learn typing without looking at keys. - Has onscreen keyboard display and highlights keys that are being pressed.
 
 
+hangman
+-------
+**Hangman** - Simple game of hangman with 20 pre-defined words chosen at random.
+
+
 
 simpleGUI
 ---------
