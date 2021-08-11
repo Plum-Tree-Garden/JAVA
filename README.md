@@ -1,6 +1,14 @@
 # JAVA
 
 
+JDBC1
+-----
+
+    app that creates database, table & table data with corresponding XAMPP database manager.
+
+    loads driver, establishes connection, create/prepare statements, execute statements & process results
+
+
 typingTutor
 ----------
 
