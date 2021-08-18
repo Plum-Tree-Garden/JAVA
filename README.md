@@ -57,3 +57,15 @@ JAVA_FX1
 --------
 **simpleWindow** : displays simple app with blank window using javaFX
 
+
+JAVA_FX2_SMILEYFACE
+---------------
+***Smile.java*** : smile displays a simple face smiling using javaFX
+
+
+CASINO/CRAPS
+------------
+***Craps.java*** : game of craps without the gui
+
+
+
