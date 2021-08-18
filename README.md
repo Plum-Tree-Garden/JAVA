@@ -87,4 +87,6 @@ AddressBook
 ----------
     simple gui for inputing address data using awt and swing
 
-
+SimpleGUI2_Align
+-------------
+    gui that re-alligns data input given x and y coordinates
