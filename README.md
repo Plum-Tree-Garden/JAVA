@@ -24,12 +24,12 @@ JDBC1
 typingTutor
 ----------
 
-**typingTutor** App that helps users learn typing without looking at keys. - Has onscreen keyboard display and highlights keys that are being pressed.
+    App that helps users learn typing without looking at keys. - Has onscreen keyboard display and highlights keys that are being pressed.
 
 
 hangman
 -------
-**Hangman** - Simple game of hangman with 20 pre-defined words chosen at random.
+    game of hangman with 20 pre-defined words chosen at random.
 
 
 
@@ -48,36 +48,21 @@ simpleGUI
 **Printer.java** :  simple gui that prepares document to print
 
 
-
-simpleApp
---------
-**LeapYear** : displays all leap years between 2 given dates
-
-
-**DistinctNumbers** : when provided with multiple integers, displays only distinct numbers on output
-
-
-**FC_Converter** : converts Fahrenheit to Celsius
-
-
-**BestCustomer** : simple app that stores customer names and purchases made within a restaurant.
-                  -  then displays the current best customer (based on the most amount spent at restaurant).
-                  
                   
                   
 JAVA_FX1
 --------
-**simpleWindow** : displays simple app with blank window using javaFX
+    displays simple app with blank window using javaFX
 
 
 JAVA_FX2_SMILEYFACE
 ---------------
-***Smile.java*** : smile displays a simple face smiling using javaFX
+    smile displays a simple face smiling using javaFX
 
 
 CASINO/CRAPS
 ------------
-***Craps.java*** : game of craps without the gui
+    game of craps without the gui
 
 
 BestCustomer
