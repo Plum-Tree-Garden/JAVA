@@ -1,7 +1,7 @@
 // plum tree garden
 // Craps.java
 
-// game of craps without ui
+// game of craps without gui
 
 
 import java.util.*;
