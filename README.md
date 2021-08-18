@@ -83,7 +83,7 @@ LeapYearQuantify
 ------------
     displays leap years between 2 given dates
 
-AddressBook
+SimpleGUI1_AddressBook
 ----------
     simple gui for inputing address data using awt and swing
 
