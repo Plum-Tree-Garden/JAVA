@@ -1,6 +1,6 @@
 // Plum Tree Garden
 // AddressBook.java
-// simple gui for inputing address data
+// simple gui for inputing address data using awt and swing
 
 import java.awt.*;
 import javax.swing.*;
