@@ -1,6 +1,12 @@
 # JAVA
 
 
+JDBC3
+-----
+    acts as database storage / input / retrieval for Ministry of Health of Ontario vaccine counts on a given date and location.
+
+
+
 JDBC2
 ------
     creates database, table and inputs data, then queries final grade upon user submission
