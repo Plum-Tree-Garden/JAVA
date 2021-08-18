@@ -90,3 +90,7 @@ SimpleGUI1_AddressBook
 SimpleGUI2_Align
 -------------
     gui that re-alligns data input given x and y coordinates
+    
+SimpleGUI3_Calculator
+-------------------
+    gui that display a standard calculator
