@@ -88,3 +88,7 @@ BestCustomer
 DistinctNumbers
 ---------
     when provided with multiple integers, displays only distinct numbers on output
+    
+FC_Converter
+----------
+    converts Fahrenheit to Celsius
