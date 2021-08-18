@@ -1,6 +1,6 @@
 // Plum Tree Garden
 // Allign.java
-// simple gui that re-alligns data input
+// gui that re-alligns data input given x and y coordinates
 
 
 import java.awt.*;
