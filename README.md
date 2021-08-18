@@ -1,6 +1,12 @@
 # JAVA
 
 
+JDBC2
+------
+    creates database, table and inputs data, then queries final grade upon user submission
+
+
+
 JDBC1
 -----
 
