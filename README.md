@@ -94,3 +94,8 @@ SimpleGUI2_Align
 SimpleGUI3_Calculator
 -------------------
     gui that display a standard calculator
+    
+    
+SimpleGUI4_Printer
+--------------------
+    gui that acts as printer settings display when documents ready to print
