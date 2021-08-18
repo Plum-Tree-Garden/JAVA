@@ -31,23 +31,6 @@ hangman
 -------
     game of hangman with 20 pre-defined words chosen at random.
 
-
-
-simpleGUI
----------
-
-**Allign.java** : simple gui that re-alligns data input
-
-
-**Calculator.java** : simple gui for calculator
-
-
-**AddressBook.java** : simple gui for inputing address data
-
-
-**Printer.java** :  simple gui that prepares document to print
-
-
                   
                   
 JAVA_FX1
